@@ -18,3 +18,11 @@ A Python console application to record daily expenses by category and date, stor
 
 2. Run the program:
    python expense_tracker.py
+
+   ## Project Mentor
+
+**Mentored by:** [Mr. Satyaprakash Sethy](https://github.com/SATYAPRAKASHSETHY)
+
+**GitHub:** [@SATYAPRAKASHSETHY](https://github.com/SATYAPRAKASHSETHY)
+
+**Role:** Python Mentor / Technical Guide
